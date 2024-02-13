@@ -1,4 +1,4 @@
-# Wine-Quality-Analysis-using-PCA---Machine-Learning
+# Wine-Quality-Analysis-using-PCA-Machine-Learning
 
 
 
@@ -30,7 +30,7 @@
    - Outliers in key wine attributes (e.g., Malic.acid, Ash, Acl, Mg, Proanth, Color.int, Hue) were identified and replaced, ensuring a more robust and reliable 
     dataset for analysis.
 
-4. **Principal Component Analysis (PCA):**
+4. **Components:**
    - Applied Standard Scaling to standardize the dataset.
    - Utilized PCA to reduce the dimensionality of the dataset while preserving its variance.
 
@@ -49,5 +49,5 @@
 - Principal Component Analysis revealed the most influential features in the dataset.
 
 
-AI, Machine Learning, Logistic Regression, Principal Component Analysis (PCA), Feature Engineering, Outlier Detection, Model Training, Model Evaluation, Data Analysis, Wine Dataset.
+
 
