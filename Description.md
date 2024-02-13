@@ -64,7 +64,8 @@
       Outliers are visually distinct points, aiding anomaly identification.
      
    - Enhanced Interpretability:
-      Visualize data relationships intuitively, making complex patterns more accessible. 📊🔍 #PCA #ScatterPlot #DataViz 🚀✨
+      Visualize data relationships intuitively, making complex patterns more accessible.
+      📊🔍 #PCA #ScatterPlot #DataViz 🚀✨
 
 **Results:**
 - The Logistic Regression model demonstrated significant accuracy on both training and testing sets.
