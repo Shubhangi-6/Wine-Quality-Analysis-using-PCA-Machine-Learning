@@ -25,9 +25,9 @@
 3. **Feature Engineering:**
    - Identified outliers in specific columns using the Interquartile Range (IQR) method.
    - Implemented a custom function to replace outliers, enhancing data quality.
-     
-4. **Outliers handling :**
-   -Outliers in key wine attributes (e.g., Malic.acid, Ash, Acl, Mg, Proanth, Color.int, Hue) were identified and replaced, ensuring a more robust and reliable 
+
+4. **Outliers handling:**
+   - Outliers in key wine attributes (e.g., Malic.acid, Ash, Acl, Mg, Proanth, Color.int, Hue) were identified and replaced, ensuring a more robust and reliable 
     dataset for analysis.
 
 4. **Principal Component Analysis (PCA):**
