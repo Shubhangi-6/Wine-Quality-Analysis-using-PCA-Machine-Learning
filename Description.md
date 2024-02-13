@@ -46,20 +46,25 @@
      
 8. **PCA Scatter Plot in a Nutshell:**
    
-1. **Transform Data:**
+   
    - PCA reduces data dimensions while preserving key information.
-2. **Axes Represent Principal Components:**
-   - X-axis: First Principal Component (PC1), Y-axis: Second Principal Component (PC2).
-3. **Data Points Projection:**
-   - Each point is projected onto the 2D space defined by PC1 and PC2.
-4. **Proximity Indicates Similarity:**
-   - Points closer together share similar characteristics.
-5. **Variance Representation:**
-   - Spread along axes shows the variance captured by each principal component.
-6. **Outlier Detection:**
-   - Outliers are visually distinct points, aiding anomaly identification.
-7. **Enhanced Interpretability:**
-   - Visualize data relationships intuitively, making complex patterns more accessible. 📊🔍 #PCA #ScatterPlot #DataViz 🚀✨
+   - Axes Represent Principal Components:
+      X-axis: First Principal Component (PC1), Y-axis: Second Principal Component (PC2).
+     
+   - Data Points Projection:
+      Each point is projected onto the 2D space defined by PC1 and PC2.
+     
+   - Proximity Indicates Similarity:
+      Points closer together share similar characteristics.
+     
+   - Variance Representation:
+      Spread along axes shows the variance captured by each principal component.
+     
+   - Outlier Detection:
+      Outliers are visually distinct points, aiding anomaly identification.
+     
+   - Enhanced Interpretability:
+      Visualize data relationships intuitively, making complex patterns more accessible. 📊🔍 #PCA #ScatterPlot #DataViz 🚀✨
 
 **Results:**
 - The Logistic Regression model demonstrated significant accuracy on both training and testing sets.
